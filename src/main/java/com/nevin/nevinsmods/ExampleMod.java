@@ -1,4 +1,4 @@
-package com.example.modid;
+package com.nevin.nevinsmods;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
